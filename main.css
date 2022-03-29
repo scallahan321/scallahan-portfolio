@@ -1,0 +1,73 @@
+body {
+    height: 100%;
+    width: 100%;
+    font-size: 1rem;
+    box-sizing: border-box;
+}
+
+nav {
+    display: block;
+    height: 100%;
+    width: 100%;
+}
+
+
+
+.bio-card {
+    width: 28rem;
+    height: 15rem;
+    display: block;
+    margin-left: 10rem;
+    margin-top: 2.5rem;
+}
+
+
+.bio-pic {
+    height:16rem;
+    width: 13rem;
+    margin-top:2rem;
+    margin-left:4rem;
+}
+
+.trivia-thumbnail {
+    height: 14rem;
+    width: 29.4rem;
+    margin-left: 2rem;
+    margin-top: 3rem;
+}
+
+.energy-thumbnail {
+    height: 14rem;
+    width: 32.5rem;
+    margin-top: 3rem;
+    margin-left: 2rem;
+}
+
+.goalie-thumbnail {
+    height: 14rem;
+    width: 27.3rem;
+    margin-top: 3rem;
+    margin-left: 2rem;
+}
+
+.attrition-thumbnail {
+    height: 14rem;
+    width: 27.3rem;
+    margin-top: 3rem;
+    margin-left: 2rem;
+}
+
+
+.description-card {
+    display: block;
+    width: 34rem;
+    height: 14rem;
+    margin-left: 7rem;
+    margin-top: 3rem;
+}
+
+
+
+
+
+
